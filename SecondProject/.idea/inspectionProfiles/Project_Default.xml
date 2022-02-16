@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.primary" />
+          <option value="_15_Python_Assignment.File_Handling._10_pickle_in_python.self" />
+          <option value="_15_Python_Assignment.File_Handling._11_emp_class_as_instance_variable.self" />
+          <option value="_15_Python_Assignment.File_Handling._11_emp_class_as_instance_variable.sal" />
+          <option value="Emp" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
